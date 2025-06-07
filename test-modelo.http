@@ -1,0 +1,18 @@
+POST http://127.0.0.1:5001/image HTTP/1.1
+Accept: application/json
+Content-Type: application/octet-stream
+
+< ./TimePhoto_20250425_104241.jpg
+
+POST http://127.0.0.1:5001/image HTTP/1.1
+Accept: application/json
+Content-Type: application/octet-stream
+
+< ./TimePhoto_20250425_121523.jpg
+
+
+POST http://127.0.0.1:5001/image HTTP/1.1
+Accept: application/json
+Content-Type: application/octet-stream
+
+< ./TimePhoto_20250505_091029.jpg

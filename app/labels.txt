@@ -1,0 +1,3 @@
+bolsa_plastica
+medidor
+sin_medidor
